@@ -1,2 +1,2 @@
 # SmartTraffic
-MyFirstUnityProject
+个人第一个完整项目，使用Unity3D2018进行开发，简单的模拟交通系统，主要用于研究车辆碰撞器WheelCollider以及场景优化技术等Unity相关技术
